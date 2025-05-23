@@ -1,11 +1,6 @@
 package com.profinit.fib;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Fibonacci {
-
-    private static Map<Long, Long> fibonacciResults = new HashMap<>();
 
     /**
      * Find nth fibonacci number.
